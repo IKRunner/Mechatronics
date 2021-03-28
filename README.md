@@ -5,5 +5,10 @@ As a part of the MEAM 510 Mechatronics Course, C code for the following was writ
 - Waldo Lab Part I
 - Waldo Lab Part II
 
+## Waldo Lab Part I ##
+TODO
+
 ## Waldo Lab Part II ##
+
+TODO
 
